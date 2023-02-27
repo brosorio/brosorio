@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying Computer Science at UFCG
-- 🌱 I’m currently learning HTML/CSS and Python
+- 🌱 I’m currently Python
